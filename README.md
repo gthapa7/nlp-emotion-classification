@@ -42,6 +42,17 @@ nlp-emotion-classification/
 - **Transformer_model**: BERT fine-tuning pipeline.
 - **Comparison**: unified evaluation, charts, and conclusions.
 
+### Notebook Viewer Links (GitHub Fallback)
+
+If GitHub fails to render notebooks, open them with nbviewer:
+
+- https://nbviewer.org/github/gthapa7/nlp-emotion-classification/blob/main/notebooks/Exploration.ipynb
+- https://nbviewer.org/github/gthapa7/nlp-emotion-classification/blob/main/notebooks/Preprocessing.ipynb
+- https://nbviewer.org/github/gthapa7/nlp-emotion-classification/blob/main/notebooks/Fc_model.ipynb
+- https://nbviewer.org/github/gthapa7/nlp-emotion-classification/blob/main/notebooks/Rnn_model.ipynb
+- https://nbviewer.org/github/gthapa7/nlp-emotion-classification/blob/main/notebooks/Transformer_model.ipynb
+- https://nbviewer.org/github/gthapa7/nlp-emotion-classification/blob/main/notebooks/Comparison.ipynb
+
 ## Source Pipeline
 
 The `src` folder provides a reusable training and evaluation pipeline that mirrors the notebook logic.
